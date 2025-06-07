@@ -1,2 +1,2 @@
-# leather
+# DigiBazar
 دیجی پاساژ
